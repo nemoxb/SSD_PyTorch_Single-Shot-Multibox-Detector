@@ -29,35 +29,24 @@ python main.py --test --epoch {SAVED_CHECKPOINT_NUMBER} --txt 3
 ### Results
 #### Training and Validation Losses
 <img src="imgs/TrainError.png" width="400">
-cat **before** NMS
 
-<img src="imgs/cat.jpg" width="300">
+$~~~~~~~~~~~~~~~~~~$ cat **before** NMS  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$   cat **after** NMS
 
-cat **after** NMS
-
+<img src="imgs/cat.jpg" width="300"> $~~~$
 <img src="imgs/cat_NMS.jpg" width="300">
 
-dog **before** NMS
+$~~~~~~~~~~~~~~~~~~$ dog **before** NMS  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$   dog **after** NMS
 
-<img src="imgs/dog.jpg" width="300">
-
-dog **after** NMS
-
+<img src="imgs/dog.jpg" width="300"> $~~~$
 <img src="imgs/dog_NMS.jpg" width="300">
 
-one person **before** NMS
+$~~~~~~~~~~~~~$ one person **before** NMS  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$   one person **after** NMS
 
-<img src="imgs/one_person.jpg" width="300">
-
-one person **after** NMS
-
+<img src="imgs/one_person.jpg" width="300"> $~~~$
 <img src="imgs/one_person_NMS.jpg" width="300">
 
-two persons **before** NMS
+$~~~~~~~~~~~~~$ two persons **before** NMS  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$   two persons **after** NMS
 
-<img src="imgs/two_persons.jpg" width="300">
-
-two persons **after** NMS
-
+<img src="imgs/two_persons.jpg" width="300"> $~~~$
 <img src="imgs/two_persons_NMS.jpg" width="300">
 
