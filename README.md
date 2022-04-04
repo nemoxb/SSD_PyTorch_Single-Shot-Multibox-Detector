@@ -30,7 +30,7 @@ python main.py --test --epoch {SAVED_CHECKPOINT_NUMBER} --txt 3
 #### Training and Validation Losses
 <img src="imgs/TrainError.png" width="400">
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
+&emsp;&emsp;&emsp;&emsp;&emsp;
 cat **before** NMS
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 cat **after** NMS
@@ -38,7 +38,7 @@ cat **after** NMS
 <img src="imgs/cat.jpg" width="300"> $~~~$
 <img src="imgs/cat_NMS.jpg" width="300">
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
+&emsp;&emsp;&emsp;&emsp;&emsp;
 dog **before** NMS
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 dog **after** NMS
@@ -46,17 +46,17 @@ dog **after** NMS
 <img src="imgs/dog.jpg" width="300"> $~~~$
 <img src="imgs/dog_NMS.jpg" width="300">
 
-&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;
 one person **before** NMS
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 one person **after** NMS
 
 <img src="imgs/one_person.jpg" width="300"> $~~~$
 <img src="imgs/one_person_NMS.jpg" width="300">
 
-&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;
 two persons **before** NMS
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 two persons **after** NMS
 
 <img src="imgs/two_persons.jpg" width="300"> $~~~$
