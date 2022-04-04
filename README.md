@@ -28,7 +28,7 @@ python main.py --test --epoch {SAVED_CHECKPOINT_NUMBER} --txt 3
 
 ### Results
 #### Training and Validation Losses
-<img src="imgs/TrainError.png" width="300">
+<img src="imgs/TrainError.png" width="400">
 cat **before** NMS
 
 <img src="imgs/cat.jpg" width="300">
