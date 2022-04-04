@@ -27,6 +27,8 @@ python main.py --test --epoch {SAVED_CHECKPOINT_NUMBER} --txt 3
 --txt specifiy which dataset to test 1-train set 2-validation set 3-test set
 
 ### Results
+#### Training and Validation Losses
+<img src="imgs/TrainError.png" width="300">
 cat **before** NMS
 
 <img src="imgs/cat.jpg" width="300">
