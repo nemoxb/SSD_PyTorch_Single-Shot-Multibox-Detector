@@ -1,4 +1,4 @@
-## Object Detection: SSD (Singel Shot Multibox Detector)
+## Object Detection: SSD (Single Shot Multibox Detector)
 This model is based on a SSD architecture proposed in ECCV 2016 paper **SSD: Single Shot MultiBox Detector** by Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg.
 
 ## Quick Start
